@@ -1,5 +1,7 @@
-public class main {
+public class elev {
+    
 public boolean isAtTop(){
+
     return false;
 }
 public boolean isAtButton(){
